@@ -1,2 +1,3 @@
-def set_owner(self, owner):
-    self.owner = owner
+class Owner:
+    def set_owner(self, owner):
+        self.owner = owner
